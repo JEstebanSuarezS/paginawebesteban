@@ -1,0 +1,604 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/37/1d/b8/371db84b01a8b6ecc9add7131abba6dd.gif);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-size: cover
+}
+
+.contenedor{
+    margin-top: 6vh;
+    padding: 25vh;
+    background-color: rgba(95, 158, 160, 0.527);
+    border-radius: 10vh;
+}
+
+.contenedor2{
+    margin-top: 20px;
+    padding: 80px;
+    background-color: rgba(95, 158, 160, 0.527);
+    border-radius: 10vh;
+}
+
+.contenedor3{
+    margin-top: 20px;
+    padding: 80px;
+    background-color: rgba(95, 158, 160, 0.527);
+    border-radius: 10vh;
+}
+
+.contenedor4{
+    margin-top: 20px;
+    padding: 80px;
+    background-color: rgba(95, 158, 160, 0.527);
+    border-radius: 10vh;
+}
+
+.contenedor5{
+    margin-top: 20px;
+    padding: 80px;
+    background-color: rgba(95, 158, 160, 0.527);
+    border-radius: 10vh;
+}
+
+.contenedor6{
+    margin-top: 20px;
+    padding: 80px;
+    background-color: rgba(95, 158, 160, 0.527);
+    border-radius: 10vh;
+}
+
+.header-2{
+    background-color: rgba(95, 158, 160, 0.945);
+    border-radius: 5vh;
+    padding: 40px;
+    margin-top: 20px;
+}
+
+.header-1{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 5px;
+    margin-top: 17px;
+}
+
+.listas{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 20px;
+    margin-top: 17px;
+}
+
+.comentarios{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 20px;
+    margin-top: 17px;
+}
+
+.anclas{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 20px;
+    margin-top: 17px;
+}
+
+.h1{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 16px;
+    margin-top: 17px;
+}
+
+.informacion{
+    margin-top: 100px;
+}
+
+.informacion2{
+    margin-top: 100px;
+}
+
+.informacion3{
+    margin-top: 100px;
+}
+
+.informacion img {
+    display: flex;
+}
+
+.informacion2 img{
+    display: flex;
+}
+
+.informacion3 img{
+    display: flex;
+}
+
+.informacion4 img{
+    display: flex;
+}
+
+.informacion5 img{
+    display: flex;
+}
+
+.informacion6 img{
+    display: flex;
+}
+
+img.wordpress{
+    padding-top: 10vh;
+}
+
+img.joomla{
+    padding-top: 10vh;
+}
+
+img.drupal{
+    padding-top: 10vh;
+}
+
+img.moodle{
+    padding-top: 10vh;
+}
+
+img.chrome{
+    padding-top: 10vh;
+}
+
+img.chrome{
+    padding-top: 10vh;
+}
+
+img.html{
+    padding-top: 10vh;
+}
+
+img.javascript{
+    padding-top: 4vh;
+}
+
+img.angular{
+    padding-top: 4vh;
+}
+
+img.react{
+    padding-top: 10vh;
+}
+
+img.vue{
+    padding-top: 10vh;
+}
+
+img.svelte{
+    padding-top: 10vh;
+}
+
+img.materialicontheme{
+    padding-top: 10vh;
+}
+
+img.beautify{
+    padding-top: 10vh;
+}
+
+img.parrafo{
+    padding-top: 4vh;
+}
+
+img.h1titulo{
+    padding-top: 10vh;
+}
+
+img.negrita{
+    padding-top: 10vh;
+}
+
+img.cursiva{
+    padding-top: 10vh;
+}
+
+img.tachado{
+    padding-top: 10vh;
+}
+
+img.insertado{
+    padding-top: 10vh;
+}
+
+img.subindice{
+    padding-top: 10vh;
+}
+
+img.superindice{
+    padding-top: 10vh;
+}
+
+img.small{
+    padding-top: 10vh;
+}
+
+img.mark{
+    padding-top: 10vh;
+}
+
+img.strong{
+    padding-top: 10vh;
+}
+
+img.em{
+    padding-top: 10vh;
+}
+
+img.tablase{
+    padding-top: 8vh;
+}
+
+.contenedor2 .wordpress{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor2 .joomla{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor2 .drupal{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor2 .moodle{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor2 .chrome{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor2 .html{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor2 .javascript{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor2 .angular{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor2 .react{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor2 .vue{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor2 .svelte{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor3 .materialtheme{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor3 .materialicontheme{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor3 .beautify{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor4 .parrafo{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor4 .h1titulo{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor4 .negrita{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor4 .cursiva{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor4 .tachado{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor4 .insertado{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor4 .subindice{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor4 .superindice{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor4 .small{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor4 .mark{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor4 .strong{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor4 .em{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor5 .tablase{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.contenedor6 .tablase{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+.index{
+    padding: 5vh;
+    text-align: center;
+    background-color: rgba(95, 158, 160, 0.527);
+    border-radius: 20vh;
+    margin-top: 5vh;
+}
+
+.index-inicio{
+    display: inline-table;
+    margin-left: 95vh;
+    background-color: rgba(127, 255, 212, 0.596);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.596);
+}
+
+.index-inline{
+    display: inline-table;
+    margin-left: 130vh;
+    background-color: rgba(127, 255, 212, 0.596);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.596);
+}
+
+.index-inline2{
+    display: inline-table;
+    margin-left: 130vh;
+    background-color: rgba(127, 255, 212, 0.596);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.596);
+}
+
+.index-inline3{
+    display: inline-table;
+    margin-left: 130vh;
+    background-color: rgba(127, 255, 212, 0.596);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.596);
+}
+
+.index-inline4{
+    display: inline-table;
+    margin-left: 130vh;
+    background-color: rgba(127, 255, 212, 0.596);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.596);
+}
+
+.index-inline5{
+    display: inline-table;
+    margin-left: 130vh;
+    background-color: rgba(127, 255, 212, 0.596);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.596);
+}
+
+.index-inline6{
+    display: inline-table;
+    margin-left: 130vh;
+    background-color: rgba(127, 255, 212, 0.596);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.596);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    padding: 0ch;
+    font-size: 2vh;
+}
+
+a:hover{
+    color: darkcyan;
+}
+
+p{
+    display: table-footer-group;
+    margin-left: 20vh;
+    font-size: 3vh;
+    color: white;
+    font-weight: bold;
+    padding: 0;
+}
+
+.sesion4{
+    display: flex;
+    padding-top: 70px;
+}
+
+.contenedor2 p{
+    display: contents;
+    color: black;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.contenedor3 p{
+    display: contents;
+    color: black;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.contenedor4 p{
+    display: contents;
+    color: black;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.contenedor5 p{
+    display: contents;
+    color: black;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.contenedor6 p{
+    display: contents;
+    color: black;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+}
+
+.informacion p{
+    margin-left: 28vh;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.h1 ul{
+    color: rgba(127, 255, 212, 0.596);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+img.h11{
+    background-color: rgba(0, 0, 0, 0.178);
+    border-radius: 5vh;
+    padding: 50px;
+    margin-top: 17px;
+}
+
+p.WordPress{
+    padding-bottom: 15vh;
+    padding-top: 10px;
+}
+
+h1{
+    color: white;
+}
+
+.color-acento{
+    color: rgb(92, 222, 226);
+}
